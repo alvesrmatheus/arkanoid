@@ -1,1 +1,3 @@
-PROJETO DESENVOLVIDO DURANTE O CURSO DE UNITY 2D - IFBA, MINISTRADO PELO PROFESSOR LUIZ MACHADO.
+            ARKANOID GAME
+Projeto desenvolvido durante o curso de Unity 2D no Instituto Federal da Bahia, Campus SSA.
+Ministrado pelo professor Luiz Machado.
